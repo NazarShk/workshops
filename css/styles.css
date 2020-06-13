@@ -27,7 +27,7 @@ li {
 .error {
   text-align: center;
   font-size: 18px;
-  color: rgb(177, 58, 58);
+  color: rgb(155, 50, 50);
 }
 .icon {
   width: 20px;
@@ -44,7 +44,7 @@ li {
 .name {
   color: #215937;
   font-weight: bold;
-  font-size: 22px;
+  font-size: 21px;
 }
 .name:hover {
   cursor: pointer;
